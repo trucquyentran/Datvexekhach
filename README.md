@@ -21,6 +21,10 @@ III. Một số giao diện website:
 
 ![image](https://github.com/trucquyentran/Datvexekhach/assets/101681888/daf0f9f6-9e5e-4834-975c-c109bdfd56c2)
 
+![image](https://github.com/trucquyentran/Datvexekhach/assets/101681888/f10d99af-718e-4bd0-a0f5-36cc2432d0ee)
+
+![image](https://github.com/trucquyentran/Datvexekhach/assets/101681888/0ff0fbd1-1bbe-40fa-938d-c786eafa20e1)
+
 ![image](https://github.com/trucquyentran/Datvexekhach/assets/101681888/2df0c7d2-d491-41c4-aa31-36d0e62dfe08)
 
 
